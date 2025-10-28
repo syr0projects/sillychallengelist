@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-const API_URL = "https://your-worker-subdomain.workers.dev"
+const API_URL = "https://working-worker.gdfdlmanager.workers.dev"
 
 function App() {
   const [challenges, setChallenges] = useState([])
